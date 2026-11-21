@@ -1,0 +1,6 @@
+{
+  "name": "OpenDroid",
+  "description": "OpenDroid - Autonomous On-Device & Cloud AI Agent with device automation, social management, routines, and multi-provider LLM support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
